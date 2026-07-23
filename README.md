@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains QA test documentation for mobile application of BeyondClass Parent, covering functional testing of key user flows including authentication, booking, child management, and profile settings.
+This repository contains QA test documentation for mobile application of BeyondClass Parent [https://play.google.com/store/apps/details?id=com.beyondclass.parent&pcampaignid=web_share], covering functional testing of key user flows including authentication, booking, child management, and profile settings.
 
 The purpose of this project is to validate application functionality, user experience, and system behavior through structured test scenarios and positive/negative test cases.
 
