@@ -131,6 +131,7 @@ Users can update profile details, copy referral links, and manage fingerprint lo
 | Test Documentation | Google Spreadsheet |
 | Bug Tracking | Google Spreadsheet |
 | Mobile Testing | Android |
+| Test Evidences | Google Drive: https://drive.google.com/drive/folders/1sABRlw0qEcwrzrWT3BAekTYahmZr8_L6?usp=drive_link |
 
 ---
 
