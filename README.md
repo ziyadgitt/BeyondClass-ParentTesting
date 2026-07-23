@@ -118,10 +118,9 @@ Users can update profile details, copy referral links, and manage fingerprint lo
 
 - Functional Testing
 - Smoke Testing
-- Regression Testing
 - Negative Testing
 - UI Testing
-- End-to-End Testing
+- Exploratory Testing
 
 ---
 
@@ -129,11 +128,9 @@ Users can update profile details, copy referral links, and manage fingerprint lo
 
 | Category | Tools |
 |---|---|
-| Test Documentation | Google Spreadsheet / TestRail |
-| Bug Tracking | Jira |
-| API Testing | Postman |
-| UI Reference | Figma |
-| Mobile Testing | Android & iOS Devices |
+| Test Documentation | Google Spreadsheet |
+| Bug Tracking | Google Spreadsheet |
+| Mobile Testing | Android |
 
 ---
 
